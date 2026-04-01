@@ -1,0 +1,11 @@
+# No external dependencies required
+
+# This is a pure frontend project built using:
+
+# HTML5
+
+# CSS3
+
+# JavaScript
+
+# No installation needed
