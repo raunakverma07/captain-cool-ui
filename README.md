@@ -1,21 +1,21 @@
-# 🏏 MS Dhoni Tribute Website
+# 🏏 MS Dhoni Tribute Website --
 
-A modern and interactive tribute website dedicated to **Mahendra Singh Dhoni (MSD)** — one of the greatest captains in cricket history.
+A modern and interactive tribute website dedicated to **Mahendra Singh Dhoni ( MSD )** — one of the greatest captains in cricket history.
 
 ---
 
-## 🚀 Features
+## 🚀 Features --
 
 * 🎨 Modern UI with clean design
 * ⚡ Smooth scrolling navigation
 * 📊 Animated stats counter (Runs, Matches, Centuries)
 * 🎯 Responsive layout (works on all devices)
 * 🌗 Light & Dark section contrast for better readability
-* ✨ Hover effects and animations
+* ✨Best Hover effects and animations
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Structure --
 
 ```
 📁 MSD-Project
@@ -26,7 +26,7 @@ A modern and interactive tribute website dedicated to **Mahendra Singh Dhoni (MS
 
 ---
 
-## 📖 About MS Dhoni
+## 📖 About MS Dhoni --
 
 * 🧒 **Born:** July 7, 1981, Ranchi
 * 👨‍👩‍👧 **Family:** Pan Singh & Devaki Devi
@@ -35,7 +35,7 @@ A modern and interactive tribute website dedicated to **Mahendra Singh Dhoni (MS
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements --
 
 * 🏆 ICC T20 World Cup 2007 Winner
 * 🏆 ICC ODI World Cup 2011 Winner
@@ -45,7 +45,7 @@ A modern and interactive tribute website dedicated to **Mahendra Singh Dhoni (MS
 
 ---
 
-## 💻 Technologies Used
+## 💻 Technologies Used --
 
 * HTML5
 * CSS3 (Flexbox, Grid, Animations)
@@ -53,14 +53,14 @@ A modern and interactive tribute website dedicated to **Mahendra Singh Dhoni (MS
 
 ---
 
-## ⚙️ How to Run
+## ⚙️ How to Run --
 
 1. Download or clone this repository
 2. Open `msd.html` in your browser
 
 ---
 
-## 📌 Future Improvements
+## 📌 Future Improvements --
 
 * 🖼 Add real image gallery
 * 🌙 Dark/Light mode toggle
@@ -69,13 +69,13 @@ A modern and interactive tribute website dedicated to **Mahendra Singh Dhoni (MS
 
 ---
 
-## 🙌 Author
+## 🙌 Author --
 
 Made with dedication for learning and project building.
 
 ---
 
-## ⭐ Support
+## ⭐ Support --
 
 If you like this project, give it a ⭐ on GitHub!
 
