@@ -4,7 +4,7 @@ A modern and interactive tribute website dedicated to **Mahendra Singh Dhoni ( M
 
 ---
 
-## 🚀 Features --
+## 🚀 Features -
 
 * 🎨 Modern UI with clean design
 * ⚡ Smooth scrolling navigation
