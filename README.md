@@ -1,4 +1,4 @@
-# 🏏 MS Dhoni Tribute Website --
+# 🏏 MS Dhoni Tribute Website -
 
 A modern and interactive tribute website dedicated to **Mahendra Singh Dhoni ( MSD )** — one of the greatest captains in cricket history.
 
