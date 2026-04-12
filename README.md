@@ -26,7 +26,7 @@ A modern and interactive tribute website dedicated to **Mahendra Singh Dhoni ( M
 
 ---
 
-## 📖 About MS Dhoni --
+## 📖 About MS Dhoni -
 
 * 🧒 **Born:** July 7, 1981, Ranchi
 * 👨‍👩‍👧 **Family:** Pan Singh & Devaki Devi
